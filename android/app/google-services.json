@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408809360377",
+    "project_id": "chat-app-15116",
+    "storage_bucket": "chat-app-15116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408809360377:android:d3e458001cab504df94b28",
+        "android_client_info": {
+          "package_name": "com.eraasoft.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHzJTQ8nfkZ2o7qLsgXP-hNkHdEwpelMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
